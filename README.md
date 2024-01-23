@@ -10,3 +10,10 @@ a 65% keyboard that's a year in the making
 * support for a bakeneko65 pcb (untested but should work in theory)
 ## images
 WIP
+
+## hardware
+|          |link      |
+|----------|----------|
+|case |[mcmaster](https://www.mcmaster.com/91292A012/)|
+|plate/db|[mcmaster](https://www.mcmaster.com/91292A005/)|
+|weight|[mcmaster](https://www.mcmaster.com/92125A082/)|
