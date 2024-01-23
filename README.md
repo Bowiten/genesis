@@ -9,7 +9,8 @@ a 65% keyboard that's a year in the making
 * weight
 * support for a bakeneko65 pcb (untested but should work in theory)
 ## images
-WIP
+![top](images/1.png)
+![bottom](images/2.png)
 
 ## hardware
 |          |link      |
